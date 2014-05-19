@@ -12,7 +12,7 @@ By Thursday, each member of the team should add their name and gitHub account na
 
 Team A:
 _______
-
+Nicholas Aponte
 
 
 
